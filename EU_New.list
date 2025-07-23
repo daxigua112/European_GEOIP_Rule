@@ -1,0 +1,58 @@
+# --- 欧洲流量规则 (Europe Traffic Rules) ---
+#
+# 西欧 (Western Europe)
+GEOIP,FR # 法国
+GEOIP,DE # 德国
+GEOIP,NL # 荷兰
+GEOIP,BE # 比利时
+GEOIP,LU # 卢森堡
+GEOIP,IE # 爱尔兰
+GEOIP,GB # 英国
+GEOIP,CH # 瑞士
+GEOIP,AT # 奥地利
+GEOIP,LI # 列支敦士登
+GEOIP,MC # 摩纳哥
+#
+# 北欧 (Northern Europe)
+GEOIP,SE # 瑞典
+GEOIP,DK # 丹麦
+GEOIP,FI # 芬兰
+GEOIP,NO # 挪威
+GEOIP,IS # 冰岛
+GEOIP,EE # 爱沙尼亚
+GEOIP,LV # 拉脱维亚
+GEOIP,LT # 立陶宛
+#
+# 南欧 (Southern Europe)
+GEOIP,ES # 西班牙
+GEOIP,PT # 葡萄牙
+GEOIP,IT # 意大利
+GEOIP,GR # 希腊
+GEOIP,MT # 马耳他
+GEOIP,SM # 圣马力诺
+GEOIP,VA # 梵蒂冈
+GEOIP,AD # 安道尔
+GEOIP,CY # 塞浦路斯
+#
+# 东欧 & 巴尔干地区 (Eastern Europe & Balkans)
+GEOIP,PL # 波兰
+GEOIP,CZ # 捷克
+GEOIP,SK # 斯洛伐克
+GEOIP,HU # 匈地利
+GEOIP,RU # 俄罗斯
+GEOIP,UA # 乌克兰
+GEOIP,BY # 白俄罗斯
+GEOIP,MD # 摩尔多瓦
+GEOIP,RO # 罗马尼亚
+GEOIP,BG # 保加利亚
+GEOIP,RS # 塞尔维亚
+GEOIP,HR # 克罗地亚
+GEOIP,SI # 斯洛文尼亚
+GEOIP,BA # 波黑
+GEOIP,ME # 黑山
+GEOIP,MK # 北马其顿
+GEOIP,AL # 阿尔巴尼亚
+GEOIP,XK # 科索沃
+#
+# 跨洲国家 (Transcontinental)
+GEOIP,TR # 土耳其
