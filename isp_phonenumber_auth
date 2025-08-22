@@ -1,21 +1,21 @@
 # 中国移动
-DOMAIN,config.cmpassport.com
-DOMAIN,www.cmpassport.com
-DOMAIN,wap.cmpassport.com
-DOMAIN,onekey1.cmpassport.com
-DOMAIN,log1.cmpassport.com
-DOMAIN,smsks1.cmpassport.com
-DOMAIN,verify.cmpassport.com
+DOMAIN-SUFFIX,config.cmpassport.com
+DOMAIN-SUFFIX,www.cmpassport.com
+DOMAIN-SUFFIX,wap.cmpassport.com
+DOMAIN-SUFFIX,onekey1.cmpassport.com
+DOMAIN-SUFFIX,log1.cmpassport.com
+DOMAIN-SUFFIX,smsks1.cmpassport.com
+DOMAIN-SUFFIX,verify.cmpassport.com
 
 # 中国联通
-DOMAIN,opencloud.wostore.cn
-DOMAIN,auth.wosms.cn
-DOMAIN,id.mail.wo.cn
-DOMAIN,mdn.open.wo.cn
-DOMAIN,hmrz.wo.cn
-DOMAIN,nishub1.10010.com
-DOMAIN,enrichgw.10010.com
+DOMAIN-SUFFIX,opencloud.wostore.cn
+DOMAIN-SUFFIX,auth.wosms.cn
+DOMAIN-SUFFIX,id.mail.wo.cn
+DOMAIN-SUFFIX,mdn.open.wo.cn
+DOMAIN-SUFFIX,hmrz.wo.cn
+DOMAIN-SUFFIX,nishub1.10010.com
+DOMAIN-SUFFIX,enrichgw.10010.com
 
 # 中国电信
-DOMAIN,id6.me
-DOMAIN,open.e.189.cn
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,open.e.189.cn
