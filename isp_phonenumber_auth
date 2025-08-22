@@ -6,7 +6,8 @@ DOMAIN-SUFFIX,onekey1.cmpassport.com
 DOMAIN-SUFFIX,log1.cmpassport.com
 DOMAIN-SUFFIX,smsks1.cmpassport.com
 DOMAIN-SUFFIX,verify.cmpassport.com
-DOMAIN-SUFFIX,log.cmpassport.com
+DOMAIN-SUFFIX,cmpassport.com
+
 
 # 中国联通
 DOMAIN-SUFFIX,opencloud.wostore.cn
@@ -23,4 +24,4 @@ DOMAIN-SUFFIX,open.e.189.cn
 
 # 其他补充
 DOMAIN-SUFFIX,mob.com
-DOMAIN-SUFFIX,ye.dun.163yun.com
+DOMAIN-SUFFIX,dun.163yun.com
